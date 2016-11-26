@@ -8,6 +8,6 @@ package com.example.administrator.myapplication;
 
 public class HAHA {
     public void hha(){
-        
+
     }
 }
